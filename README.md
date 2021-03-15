@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jakubbroz926, 27 years old, live in the Prague.
+- 👋 Hi, I’m Jakub Broz, 27 years old and  live in the Prague 
 - 👀 I’m interested in AI,ML, robotics, gaming and hobby art. 
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on robotics projects, but I will be glad for any opportunity, where I could improve my 
