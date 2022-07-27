@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Jakub Broz, 29 years old and  live in the Prague. 
 - 👀 I’m interested in computer vision, robotics, gaming and hobby art. 
-- :book: At the moment I'm studying computer science on the Codecademy website. 
+- 📖 At the moment I'm studying computer science on the Codecademy website. 
 - 💞️ I’m looking to collaborate on robotics projects, but I will be glad for any opportunity.
+- 🏆 I have already managed to get my Python certification ( Elections repo) and my SQL certification.
+- 🔗 Both are on my LinkedIN: https://www.linkedin.com/in/jakubbroz/ 
 - 📫 Let me know on my gmail: Broz.Jk@gmail.com and to subject write down Github COOP.
