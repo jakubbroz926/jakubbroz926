@@ -3,6 +3,7 @@
 - ❤️ I’m looking to collaborate on robotics projects and image processing, but I will be glad for any opportunity.
 - 📖 At the moment I'm studying computer science on the Codecademy website.
 - 😄 I’m interested in computer vision, robotics, gaming and hobby art. 
-- 🏆 I have already managed to get my Python certification (Elections repository) and my SQL certification.
+- 🏆 I have already managed to get my Python certification (Elections repository) and my SQL certification. 
+- ✔️ My first projects were written through the Hyperskill platform. https://github.com/jakubbroz926/Hyper_skill_final
 - 🔗 Both are on my LinkedIN: https://www.linkedin.com/in/jakubbroz/ 
 - 📫 Let me know on my gmail: Broz.Jk@gmail.com and to subject write down Github COOP.
